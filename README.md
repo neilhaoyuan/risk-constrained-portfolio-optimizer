@@ -45,4 +45,4 @@ Here's a glimpse of the optimization algorithm as it continuously checks to see 
 
 <hr>
 
-The base code was originally for a Group Competition for UW's CFM 101 course where teams competed to create a Risk-Free stock picker. This code has since been indepdently repurposed and optimized it. It is signficantly faster, and more configurable compared to before. If you wish to see the original code please reach out.
+The base code was originally for a Group Competition for UW's CFM 101 course where teams competed to create a Risk-Free stock picker. This code has since been indepdently repurposed and optimized by me. It is signficantly faster, and more configurable compared to before. If you wish to see the original code please reach out.
