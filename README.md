@@ -15,13 +15,13 @@ Have a list of stocks you want to invest in but you don't want to lose any money
 
 ### High stability, Low Variance
 This optimizer creates portfolios that are significantly less volatile then benchmarks:
-https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/metrics.png?raw=true
+![image alt](https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/metrics.png?raw=true)
 
 Even during the extreme stock market drops caused by The United States's April 2nd tarrifs, the optimized portfolio (of the sample tickers) didn't dip below 0% returns unlike the benchmarks!
-https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/port_v_bench.png?raw=true
+![image alt](https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/port_v_bench.png?raw=true)
 
 Here's a glimpse of the optimization algorithm as it continuously checks to see if it has met sector diversification requirements:
-https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/optimization_process.png?raw=true
+![image alt](https://github.com/neilhaoyuan/risk-constrained-portfolio-optimizer/blob/main/images/optimization_process.png?raw=true)
 
 <hr>
 
