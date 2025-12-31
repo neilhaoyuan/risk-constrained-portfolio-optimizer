@@ -1,6 +1,6 @@
 # Risk Constrained Portfolio Optimizer
 
-Have a list of stocks you want to invest in but you don't want to lose any money? Want to make sure you're cash doesn't fluctuate too much? Not a big gambler and want stability? You've come to the right place then. Here's a Risk Constrained Portfolio Optimizer that will create an optimal Capital Preservation Portfolio where the variance is as low as possible. 
+A Risk Constrained Portfolio Optimizer that will create an optimal capital preservation portfolio whose variance is as low as possible using mean variance optimization. Sifts through candidate tickers using data filtration based on user set restrictions and considerations.  
 
 <hr>
 
